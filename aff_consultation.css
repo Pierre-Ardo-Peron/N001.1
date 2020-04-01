@@ -1,0 +1,49 @@
+.presentation{
+	float:right;
+	width:10%;
+	height: 100px;
+}
+.username{
+	float:right;
+	margin-right: 5px;
+	margin-top:5px;
+}
+
+div.user{
+	width:100%;
+	height:100px;
+}
+
+
+table{
+	width:50%;
+	margin:50px auto;
+	text-align: center;
+}
+
+tr.first{
+	background-color:blue;
+}
+
+tr{
+	background-color:lightblue;
+	height: 30px;
+}
+
+div.retour{
+	text-align: center;
+}
+
+input{
+	height:30px;
+}
+
+p.aff{
+	text-align: center;
+	font-size: 120%;
+}
+
+body{
+	background-image: url("background/1.jpg");
+	background-size:100%;
+}

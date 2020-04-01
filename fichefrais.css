@@ -1,0 +1,60 @@
+.presentation{
+	float:right;
+	width:10%;
+	height: 100px;
+}
+.username{
+	float:right;
+	margin-right:5px;
+	margin-top:5px;
+}
+input.username{
+	height: 30px;
+}
+
+div.user{
+	width:100%;
+	height:100px;
+}
+
+body{
+	background-image: url("background/1.jpg");
+	background-size:100%;
+}
+
+div.princ{
+	width:30%;
+	margin:50px auto;
+	border-style: groove;
+	border-color: black;
+	text-align: center;
+	background-color: white;
+}
+
+input{
+	margin-bottom: 10px;
+}
+
+select{
+	margin-bottom: 10px;
+}
+
+input.valid{
+	margin:10px 10px;
+	margin-bottom: 20px;
+	height: 35px;
+	background-color:lightgreen;
+}
+
+input.reset{
+	height: 35px;
+	background-color:red;
+}
+
+div.retour{
+	text-align: center;
+}
+
+input.retour{
+	height:30px;
+}
