@@ -1,0 +1,37 @@
+.presentation{
+	float:right;
+	width:10%;
+	height: 100px;
+}
+.username{
+	float:right;
+	margin-right:5px;
+	margin-top:5px;
+}
+
+div.user{
+	width:100%;
+	height:100px;
+}
+
+input{
+	height:30px;
+}
+
+div.outil{
+	width:30%;
+	text-align: center;
+	border-style: groove;
+	border-color: black;
+	margin:50px auto;
+	background-color: white;
+}
+
+.fin{
+	margin-bottom: 40px;
+}
+
+body{
+	background-image: url("background/1.jpg");
+	background-size:100%;
+}
